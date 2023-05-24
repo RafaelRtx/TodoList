@@ -1,0 +1,16 @@
+.container{
+  max-width: 50rem;
+  padding: 0 1rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.list li{
+  padding:10px 0;
+  text-align: left;
+}
+
+ul{
+  list-style: none;
+}
+
